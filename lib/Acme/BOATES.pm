@@ -10,11 +10,11 @@ Acme::BOATES - The great new Acme::BOATES!
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02_02
 
 =cut
 
-our $VERSION = '0.02_01';
+our $VERSION = '0.02_02';
 
 
 =head1 SYNOPSIS
